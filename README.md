@@ -21,8 +21,6 @@
 
 [![ekibet's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-kibet&show_icons=true&theme=radical&count_private=true)](https://github.com/e-kibet)
 
-  <img align="left" alt="Evans Kiptarus Kibet's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-kibet&hide_border=false&show_icons=true&count_private=true" />
-
 
 [website]: https://ekibet.co.ke
 
