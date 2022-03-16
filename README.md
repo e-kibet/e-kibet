@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=e-kibet.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ekibet.co.ke)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ekibet?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fckibet&screen_name=ekibet)
 
-## Software engineer with experince on Backend systems(MySQL, Docker, K8S, NodeJS, PHP & Spring boot), Frontend UI(ReactJS & USSD) & Mobile app (Android)
+## Senior Android Developer | Senior Backend engineer
 
 
 ## Skills:
