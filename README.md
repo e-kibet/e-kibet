@@ -7,3 +7,7 @@
 
 [website]: https://ekibet.co.ke
 
+
+
+[![Evans's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=e-kibet&&theme=xcode)](https://github.com/e-kibet)
+
